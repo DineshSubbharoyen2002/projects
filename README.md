@@ -12,3 +12,7 @@
 # 3.Generate a star pattern using number 7(star.java)
 
 The code is optimized to print a star using number 7 ,The pattern is made by using 3 steps or 3 main for loops first a pyramid is printed then the middle pattern is printed and finally 2 inverted pyramid(pyjama pattern) is printed which makes a star pattern.
+
+# 4.Error Handling using Rest API
+
+  This is the optimized code for error handling is done using Nodejs and RestAPI
