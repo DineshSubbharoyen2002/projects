@@ -7,7 +7,7 @@
   
  # 2.Optimized code for prime number(prime.java)
  
- It is optimized due to only one for loop.First a flag f is set to 1 which is basically true and 0 represents false, first if condition checks whether the number is negative or zero then turns the flag to 0(false),Second if condition checks whether the number is 2 and returns true since it is a prime number,third if condition checks for even numbers and at last for loop checks the odd number it is optimized because it only checks odd number and returns false ,if it does not satisfy any condition returns true which is default and acts as else condition.
+ It is optimized due to only one for loop.First a flag f is set to 1 which is basically true and 0 represents false, first if condition checks whether the number is negative or zero then turns the flag to 0(false),Second if condition checks whether the number is 2 and returns true since it is a prime number,third if condition checks for even numbers and at last the for loop checks the odd number, It is optimized because it only checks odd number and returns false ,if it does not satisfy any condition returns true which is default and acts as an else condition.
 
 # 3.Generate a star pattern using number 7
 
